@@ -10,6 +10,7 @@ Word is said to be found in a direction if all characters match in this directio
 
 *Program Input*
 |Line #|Content|Example|
+|---|---|---|
 |1|Matrix rows, matrix columns|4,5 meaning 4 rows of 5 columns|
 |2|Matrix of characters within which to search|A,P,P,L,E,N,-,E,D,T,T,-,T,E,E,T,O,A,Z,B
 |||meaning:|
