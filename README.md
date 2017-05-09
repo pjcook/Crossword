@@ -14,11 +14,11 @@ Line|Content|Example
 ------------|------------|------------
 1|Matrix rows, matrix columns|4,5 meaning 4 rows of 5 columns
 2|Matrix of characters within which to search|A,P,P,L,E,N,-,E,D,T,T,-,T,E,E,T,O,A,Z,B
- | |meaning:
- | |APPLE
- | |N-EDT
- | |T-TEE
- | |TOAZB
+ |||meaning:
+ |||APPLE
+ |||N-EDT
+ |||T-TEE
+ |||TOAZB
 3|Comma-separated dictionary of words for which to search|APPLE,JAVA,COMPUTER,DESK,TEA,TOP,ANT,BEEP,TO,TEST
 
 **Desired Output**
